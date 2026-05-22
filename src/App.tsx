@@ -1,4 +1,4 @@
-import "/assets/scss/main.scss";
+import "./assets/scss/main.scss";
 import "odometer/themes/odometer-theme-default.css"; // Import theme
 import { ToastContainer } from "react-toastify";
 import { Route, Routes } from "react-router-dom";
