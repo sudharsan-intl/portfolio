@@ -37,7 +37,7 @@ export default function Profile2() {
                 <a href="https://github.com/sudharsan-intl" target="_blank" rel="noopener noreferrer">
                   <i className="fa-brands fa-github" />
                 </a>
-                <a href="https://www.linkedin.com/in/sudharsan-s" target="_blank" rel="noopener noreferrer">
+                <a href="/" target="_blank" rel="noopener noreferrer">
                   <i className="fa-brands fa-linkedin-in" />
                 </a>
               </div>
